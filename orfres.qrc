@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ORFFinder.pro</file>
+    </qresource>
+</RCC>
